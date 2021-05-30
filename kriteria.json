@@ -1,0 +1,51 @@
+[
+    {
+        "idkriteria": "1",
+        "namakriteria": "Kepribadian",
+        "bobotpreferensi": "1.00",
+        "nilaiNormalisasi": null,
+        "jeniskriteria": "2"
+    },
+    {
+        "idkriteria": "2",
+        "namakriteria": "Kemampuan",
+        "bobotpreferensi": "1.00",
+        "nilaiNormalisasi": null,
+        "jeniskriteria": "2"
+    },
+    {
+        "idkriteria": "3",
+        "namakriteria": "Kekayaan",
+        "bobotpreferensi": "0.50",
+        "nilaiNormalisasi": null,
+        "jeniskriteria": "1"
+    },
+    {
+        "idkriteria": "4",
+        "namakriteria": "Jaminan",
+        "bobotpreferensi": "0.50",
+        "nilaiNormalisasi": null,
+        "jeniskriteria": "1"
+    },
+    {
+        "idkriteria": "5",
+        "namakriteria": "Kondisi",
+        "bobotpreferensi": "1.00",
+        "nilaiNormalisasi": null,
+        "jeniskriteria": "2"
+    },
+    {
+        "idkriteria": "6",
+        "namakriteria": "Status Kepemilikan Rumah",
+        "bobotpreferensi": "1.00",
+        "nilaiNormalisasi": null,
+        "jeniskriteria": "2"
+    },
+    {
+        "idkriteria": "7",
+        "namakriteria": "Status Usaha",
+        "bobotpreferensi": "1.00",
+        "nilaiNormalisasi": null,
+        "jeniskriteria": "2"
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "idrating": "1",
+        "idkriteria": "1",
+        "idatribute": "1",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "2",
+        "idkriteria": "2",
+        "idatribute": "1",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "3",
+        "idkriteria": "3",
+        "idatribute": "1",
+        "nilairating": "0.50",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "0.50"
+    },
+    {
+        "idrating": "4",
+        "idkriteria": "4",
+        "idatribute": "1",
+        "nilairating": "0.50",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "0.50"
+    },
+    {
+        "idrating": "5",
+        "idkriteria": "5",
+        "idatribute": "1",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "6",
+        "idkriteria": "6",
+        "idatribute": "1",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "7",
+        "idkriteria": "7",
+        "idatribute": "1",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "8",
+        "idkriteria": "1",
+        "idatribute": "2",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "9",
+        "idkriteria": "2",
+        "idatribute": "2",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "10",
+        "idkriteria": "3",
+        "idatribute": "2",
+        "nilairating": "0.25",
+        "nilainormalisasi": "0.50",
+        "bobotnormalisasi": "0.25"
+    },
+    {
+        "idrating": "11",
+        "idkriteria": "4",
+        "idatribute": "2",
+        "nilairating": "0.50",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "0.50"
+    },
+    {
+        "idrating": "12",
+        "idkriteria": "5",
+        "idatribute": "2",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "14",
+        "idkriteria": "6",
+        "idatribute": "2",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "15",
+        "idkriteria": "7",
+        "idatribute": "2",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "16",
+        "idkriteria": "1",
+        "idatribute": "3",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "17",
+        "idkriteria": "2",
+        "idatribute": "3",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "18",
+        "idkriteria": "3",
+        "idatribute": "3",
+        "nilairating": "0.50",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "0.50"
+    },
+    {
+        "idrating": "19",
+        "idkriteria": "4",
+        "idatribute": "3",
+        "nilairating": "0.25",
+        "nilainormalisasi": "0.50",
+        "bobotnormalisasi": "0.25"
+    },
+    {
+        "idrating": "20",
+        "idkriteria": "5",
+        "idatribute": "3",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "21",
+        "idkriteria": "6",
+        "idatribute": "3",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "22",
+        "idkriteria": "7",
+        "idatribute": "3",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "23",
+        "idkriteria": "1",
+        "idatribute": "4",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "24",
+        "idkriteria": "2",
+        "idatribute": "4",
+        "nilairating": "0.00",
+        "nilainormalisasi": "0.00",
+        "bobotnormalisasi": "0.00"
+    },
+    {
+        "idrating": "25",
+        "idkriteria": "3",
+        "idatribute": "4",
+        "nilairating": "0.25",
+        "nilainormalisasi": "0.50",
+        "bobotnormalisasi": "0.25"
+    },
+    {
+        "idrating": "26",
+        "idkriteria": "4",
+        "idatribute": "4",
+        "nilairating": "0.25",
+        "nilainormalisasi": "0.50",
+        "bobotnormalisasi": "0.25"
+    },
+    {
+        "idrating": "27",
+        "idkriteria": "5",
+        "idatribute": "4",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "28",
+        "idkriteria": "6",
+        "idatribute": "4",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "29",
+        "idkriteria": "7",
+        "idatribute": "4",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "30",
+        "idkriteria": "1",
+        "idatribute": "5",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "31",
+        "idkriteria": "2",
+        "idatribute": "5",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "32",
+        "idkriteria": "3",
+        "idatribute": "5",
+        "nilairating": "0.50",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "0.50"
+    },
+    {
+        "idrating": "33",
+        "idkriteria": "4",
+        "idatribute": "5",
+        "nilairating": "0.50",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "0.50"
+    },
+    {
+        "idrating": "34",
+        "idkriteria": "5",
+        "idatribute": "5",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "35",
+        "idkriteria": "6",
+        "idatribute": "5",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "36",
+        "idkriteria": "7",
+        "idatribute": "5",
+        "nilairating": "0.00",
+        "nilainormalisasi": "0.00",
+        "bobotnormalisasi": "0.00"
+    },
+    {
+        "idrating": "37",
+        "idkriteria": "1",
+        "idatribute": "6",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "38",
+        "idkriteria": "2",
+        "idatribute": "6",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "39",
+        "idkriteria": "3",
+        "idatribute": "6",
+        "nilairating": "0.25",
+        "nilainormalisasi": "0.50",
+        "bobotnormalisasi": "0.25"
+    },
+    {
+        "idrating": "40",
+        "idkriteria": "4",
+        "idatribute": "6",
+        "nilairating": "0.25",
+        "nilainormalisasi": "0.50",
+        "bobotnormalisasi": "0.25"
+    },
+    {
+        "idrating": "41",
+        "idkriteria": "5",
+        "idatribute": "6",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "42",
+        "idkriteria": "6",
+        "idatribute": "6",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "43",
+        "idkriteria": "7",
+        "idatribute": "6",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "44",
+        "idkriteria": "1",
+        "idatribute": "7",
+        "nilairating": "0.50",
+        "nilainormalisasi": "2.00",
+        "bobotnormalisasi": "2.00"
+    },
+    {
+        "idrating": "45",
+        "idkriteria": "2",
+        "idatribute": "7",
+        "nilairating": "0.00",
+        "nilainormalisasi": "0.00",
+        "bobotnormalisasi": "0.00"
+    },
+    {
+        "idrating": "46",
+        "idkriteria": "3",
+        "idatribute": "7",
+        "nilairating": "0.25",
+        "nilainormalisasi": "0.50",
+        "bobotnormalisasi": "0.25"
+    },
+    {
+        "idrating": "47",
+        "idkriteria": "4",
+        "idatribute": "7",
+        "nilairating": "0.50",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "0.50"
+    },
+    {
+        "idrating": "48",
+        "idkriteria": "5",
+        "idatribute": "7",
+        "nilairating": "1.00",
+        "nilainormalisasi": "1.00",
+        "bobotnormalisasi": "1.00"
+    },
+    {
+        "idrating": "49",
+        "idkriteria": "6",
+        "idatribute": "7",
+        "nilairating": "0.00",
+        "nilainormalisasi": "0.00",
+        "bobotnormalisasi": "0.00"
+    },
+    {
+        "idrating": "50",
+        "idkriteria": "7",
+        "idatribute": "7",
+        "nilairating": "0.00",
+        "nilainormalisasi": "0.00",
+        "bobotnormalisasi": "0.00"
+    }
+]
